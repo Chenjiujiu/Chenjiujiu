@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1 style="border: none">Hi there 👋, I'm jiujiu</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=580&lines=Full-stack+engineer+with+low-level+insights;Vanilla+JavaScript+%2B+Rendering+Engines;Async%2C+Scopes%2C+Garbage+Collection;Deep+dive+into+V8+and+runtime+optimizations" alt=""/>
+<h3 style="font-size:18px">Hi there 👋, I'm jiujiu</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=580&lines=Full-stack+engineer+with+low-level+insights;Vanilla+JavaScript+%2B+Rendering+Engines;Async%2C+Scopes%2C+Garbage+Collection;Deep+dive+into+V8+and+runtime+optimizations" alt=""/>
 
 </div>
 
 ---
 
-<h1 style="border: none">🧰 Tech Stack</h1>
+<h3 style="font-size:18px">🧰 Tech Stack</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -18,7 +18,7 @@
 
 ---
 
-<h1 style="border: none">💻 About Me</h1>
+<h3 style="font-size:18px">💻 About Me</h1>
 I'm a full-stack engineer with a strong focus on frontend architecture, native JavaScript, and browser internals.
 
 I enjoy dissecting how things work under the hood — from the DOM rendering pipeline and event loop to the V8 engine's
@@ -39,7 +39,7 @@ When I'm not coding, I'm likely refactoring something that didn’t need to be r
 
 ---
 
-<h1 style="border: none">📈 GitHub Stats</h1>
+<h3 style="font-size:18px">📈 GitHub Stats</h1>
 <table>
   <thead>
     <tr>
@@ -55,7 +55,7 @@ When I'm not coding, I'm likely refactoring something that didn’t need to be r
 
 ---
 
-<h1 style="border: none">🌐 Let's Connect</h1>
+<h3 style="font-size:18px">🌐 Let's Connect</h1>
 <p>
   <a href="mailto:saddhu@foxmail.com">📧 Email</a>
 </p>
