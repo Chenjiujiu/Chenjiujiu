@@ -1,13 +1,14 @@
 <div align="center">
 
-<h3 style="font-size:18px">Hi there 👋, I'm jiujiu</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=580&lines=Full-stack+engineer+with+low-level+insights;Vanilla+JavaScript+%2B+Rendering+Engines;Async%2C+Scopes%2C+Garbage+Collection;Deep+dive+into+V8+and+runtime+optimizations" alt=""/>
+### Hi there 👋, I'm jiujiu
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=580&lines=Full-stack+engineer+with+low-level+insights;Vanilla+JavaScript+%2B+Rendering+Engines;Async%2C+Scopes%2C+Garbage+Collection;Deep+dive+into+V8+and+runtime+optimizations)
 
 </div>
 
 ---
 
-<h3 style="font-size:18px">🧰 Tech Stack</h3>
+### 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -18,7 +19,8 @@
 
 ---
 
-<h3 style="font-size:18px">💻 About Me</h1>
+### 💻 About Me
+
 I'm a full-stack engineer with a strong focus on frontend architecture, native JavaScript, and browser internals.
 
 I enjoy dissecting how things work under the hood — from the DOM rendering pipeline and event loop to the V8 engine's
@@ -39,23 +41,17 @@ When I'm not coding, I'm likely refactoring something that didn’t need to be r
 
 ---
 
-<h3 style="font-size:18px">📈 GitHub Stats</h1>
-<table>
-  <thead>
-    <tr>
-      <th>
-        <img src="https://github-readme-stats.vercel.app/api?show_icons=true&rank_icon=github&hide_border=true&theme=buefy&icon_color=&username=chenjiujiu"  alt=""/>
-      </th>
-      <th>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?show_icons=true&rank_icon=github&hide_border=true&theme=buefy&layout=compact&username=chenjiujiu"  alt=""/>
-      </th>
-    </tr>
-  </thead>
-</table>
+### 📈 GitHub Stats
+
+<div align="center">  
+
+| ![](https://github-readme-stats.vercel.app/api?username=chenjiujiu&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chenjiujiu&layout=compact&theme=buefy&hide_border=true) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+
+</div>
 
 ---
 
-<h3 style="font-size:18px">🌐 Let's Connect</h1>
-<p>
-  <a href="mailto:saddhu@foxmail.com">📧 Email</a>
-</p>
+### 🌐 Let's Connect
+
+[📧 Email](mailto:saddhu@foxmail.com)
