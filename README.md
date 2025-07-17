@@ -48,6 +48,8 @@ When I'm not coding, I'm likely refactoring something that didn’t need to be r
 | ![](https://github-readme-stats.vercel.app/api?username=chenjiujiu&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chenjiujiu&layout=compact&theme=buefy&hide_border=true) |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 
+![](https://github.com/Chenjiujiu/snk/blob/refs/heads/output/github-contribution-grid-snake.gif)
+
 </div>
 
 ---
